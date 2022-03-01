@@ -17,4 +17,7 @@ export const QuoteList: Quote[] = [
     text: "Believe you can and you’re halfway there.",
     author: "Theodore Roosevelt",
   },
+  {
+    text: "Even with my back up against the wall, I don't give up!",
+    autour: "Ms. Marvenl",
 ];
